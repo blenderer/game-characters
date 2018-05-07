@@ -1,0 +1,19 @@
+{
+  "name": "game-characters",
+  "version": "1.0.0",
+  "description": "json lists of all of the characters from their respective game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blenderer/game-characters.git"
+  },
+  "author": "Blenderer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blenderer/game-characters/issues"
+  },
+  "homepage": "https://github.com/blenderer/game-characters#readme"
+}
