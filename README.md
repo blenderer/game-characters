@@ -7,5 +7,5 @@ npm install --save game-characters
 ```
 
 ```
-var smash4 = require('game-characters/smash4');
+var smash4 = require('game-characters/smashultimate');
 ```
